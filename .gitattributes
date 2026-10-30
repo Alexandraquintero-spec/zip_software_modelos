@@ -1,0 +1,3 @@
+# Las partes del .zip son binarias: Git no debe tocar sus finales de línea
+partes/* binary
+*.bat text eol=crlf
